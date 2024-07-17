@@ -34,8 +34,7 @@ if authentication_status == False:
 
 if authentication_status == None:
     st.warning("Por favor insira seu nome de Usuário e Senha")
-    st.write("Se ainda não é assinante [clique aqui](https://wa.me/5579999689464
-).")
+    st.write("Se ainda não é assinante [clique aqui](https://wa.me/5579999689464).")
 
 if authentication_status: 
     st.sidebar.image('logo.jpg', width=200)
