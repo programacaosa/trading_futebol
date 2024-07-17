@@ -1,0 +1,10 @@
+Odd_H_Min: 1.5
+Odd_H_Max: 2.2
+Odd_D_Min: 1.01
+Odd_D_Max: 10.0
+Odd_A_Min: 1.01
+Odd_A_Max: 10.0
+Odd_Over25_Min: 1.01
+Odd_Over25_Max: 10.0
+Odd_BTTS_Min: 1.01
+Odd_BTTS_Max: 10.0
